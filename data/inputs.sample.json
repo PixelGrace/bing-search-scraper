@@ -1,0 +1,16 @@
+{
+  "queries": [
+    {
+      "term": "apify",
+      "resultsPerPage": 10,
+      "pages": 1,
+      "marketCode": "en-US",
+      "languageCode": "en"
+    },
+    {
+      "term": "python web scraping",
+      "resultsPerPage": 10,
+      "pages": 1
+    }
+  ]
+}
