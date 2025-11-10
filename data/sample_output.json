@@ -1,0 +1,41 @@
+[
+  {
+    "searchQuery": {
+      "term": "apify",
+      "resultsPerPage": 10,
+      "page": 1,
+      "url": "https://www.bing.com/search?q=apify&mkt=en-US&setLang=en&count=10&first=1",
+      "marketCode": "en-US",
+      "languageCode": "en"
+    },
+    "html": null,
+    "htmlSnapshotUrl": null,
+    "resultsTotal": 30100,
+    "organicResults": [
+      {
+        "iconUrl": "https://th.bing.com/th?id=ODLS.f0918ea1-202b-4bbd-abfe-46cd7093840f&w=32&h=32",
+        "displayedUrl": "https://apify.com",
+        "title": "Apify: Full-stack web scraping and data extraction platform",
+        "url": "https://apify.com/",
+        "description": "Cloud platform for web scraping and browser automation.",
+        "emphasizedKeywords": ["web"],
+        "type": "organic",
+        "position": 1
+      }
+    ],
+    "paidResults": [],
+    "peopleAlsoAsk": [
+      {
+        "url": "https://docs.apify.com/platform",
+        "question": "What is apify and how does it work?",
+        "answer": "Apify is a cloud platform that helps you build reliable web scrapers and automate browser tasks."
+      }
+    ],
+    "relatedQueries": [
+      {
+        "title": "apify login",
+        "url": "https://www.bing.com/search?q=apify+login&FORM=QSRE1"
+      }
+    ]
+  }
+]
