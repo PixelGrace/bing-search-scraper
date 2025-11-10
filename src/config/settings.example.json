@@ -1,0 +1,17 @@
+{
+  "marketCode": "en-US",
+  "languageCode": "en",
+  "resultsPerPage": 10,
+  "pages": 1,
+  "includeHtml": false,
+  "output": {
+    "formats": ["json", "csv", "excel", "xml"],
+    "directory": "data"
+  },
+  "request": {
+    "timeout": 10,
+    "maxRetries": 3,
+    "backoffFactor": 1.5,
+    "proxy": null
+  }
+}
